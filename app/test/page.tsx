@@ -1,7 +1,7 @@
 import { AddForm } from "@/app/add-form";
 import { DeleteForm } from "@/app/delete-form";
 
-export default async function Home() {
+export default async function Test() {
   const todos = [
     {
       id: 1,
